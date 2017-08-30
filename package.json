@@ -1,0 +1,22 @@
+{
+  "name": "speechapi",
+  "version": "1.0.0",
+  "description": "testing speech api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pabs97"
+  },
+  "keywords": [
+    "google",
+    "cloud"
+  ],
+  "author": "Pablo Suarez",
+  "license": "ISC",
+  "dependencies": {
+    "google-cloud": "^0.56.0"
+  }
+}
